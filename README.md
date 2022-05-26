@@ -3,7 +3,7 @@ funções genéricas para facilitar a implementação de tabs, toggle menus, acc
 
 # Documentação
 
-# Codepen com exemplos
+## Codepen com exemplos
 https://codepen.io/mzakira/pen/mdXqpRm
 
 # tab click event
